@@ -3,6 +3,10 @@
 
 # In[1]:
 
+get_ipython().system('pip install streamlit')
+get_ipython().system('pip install tensorflow')
+get_ipython().system('pip install opencv-python')
+
 
 import cv2
 import numpy as np
